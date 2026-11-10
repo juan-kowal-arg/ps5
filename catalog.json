@@ -1,17 +1,22 @@
 {
-    "name": "Mi catalogo",
-    "packages": [
-      {
-        "name": "Assassin's Creed Black Flag Resynced",
-        "type": "game",
-        "price": "$59.99",
-        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png",
-        "href": "https://store.playstation.com/en-us/product/EP0001-PPSA28183_00-GAME000000000000",
-        "uuid": "EP0001-PPSA28183_00-GAME000000000000",
-        "platforms": [
-            "PS5"
-        ],
-        "rating": "Full Game"
-    }  
-    ]
+  "name": "Juan Catalog",
+  "version": 1,
+  "packages": [
+    {
+      "titleId": "2026",
+      "title": "Avowed",
+      "createdAt": "2026-11-10T12:19:06.377Z",
+      "version": "02.001",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA33985_b97da818fc155f2f8daeecd9b2efe8e665b5cac2ab274338a3dae920fbe0700e/icon0.webp",
+      "description": "Format: Arabic FPKG\nWelcome to the Living Lands, a mysterious island filled with adventure and danger. Set in the fictional world of Eora first introduced in the Pillars of Eternity franchise, Avowed is a first-person fantasy action RPG from the award-winning team at Obsidian Entertainment. As an envoy of Aedyr, you are sent to the Living Lands to investigate a mysterious plague. But what begins as a mission of duty soon becomes deeply personal—you feel as though the land recognizes you and is pulling you toward something greater. The choices you make will ripple across the Living Lands, shaping the fates of its people, its creatures, your companions, and even yourself. Anniversary Update Even more to do in the game! This update brings New Game Plus, a Photo Mode, a brand new weapon type with two-handed staves, the ability to change character appearance whenever you’d like, new character creation presets, additional Godlike presets, custom game difficulty settings, and the addition of three new playable races: Dwarf, Aumaua, and Orlan. The Weird and Wonderful Living Lands The Living Lands is a place that feels foreign yet strangely intrinsic to you, as though the island itself is calling out for help. Explore a vibrant frontier home to diverse environments, creatures, factions, and mysteries—each with its own unique ecosystem and stories to uncover. Combat and Character Building Your Way Fight with fluid, visceral combat that lets you mix swords, spells, guns, and shields in whatever combination fits your style. Craft your own build by drawing from four distinct skill trees—Fighter, Ranger, Wizard, and Godlike—and layer a companion skillset on top of your own to create powerful synergies. Experiment with new abilities, refine your strategy, and reshape your approach as you master the challenges ahead. Companions as Part of Your Journey A spread of companions from different species and backgrounds will fight alongside you, each with their own personalities, goals, and abilities. From a former mercenary to an eccentric wizard, these allies will grow and change based on the choices you make—and the quests you help them complete.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama; thanks to akuma for the arabic files and Oussama for the fpkg file.\nUpdated: 2026-11-10T12:15:52.413Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Arabic FPKG · Viki",
+          "url": "https://vikingfile.com/f/syZ5Vy0IpV"
+        }
+      ],
+      "sizeBytes": 66571993088
+    }]
 }
