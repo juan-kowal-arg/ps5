@@ -3,18 +3,18 @@
   "version": 1,
   "packages": [
     {
-      "titleId": "2026",
-      "title": "Avowed",
+      "titleId": "2021",
+      "title": "Mass Effect Legendary Edition",
       "createdAt": "2026-11-10T12:19:06.377Z",
       "version": "02.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA33985_b97da818fc155f2f8daeecd9b2efe8e665b5cac2ab274338a3dae920fbe0700e/icon0.webp",
-      "description": "Format: Arabic FPKG\nWelcome to the Living Lands, a mysterious island filled with adventure and danger. Set in the fictional world of Eora first introduced in the Pillars of Eternity franchise, Avowed is a first-person fantasy action RPG from the award-winning team at Obsidian Entertainment. As an envoy of Aedyr, you are sent to the Living Lands to investigate a mysterious plague. But what begins as a mission of duty soon becomes deeply personal—you feel as though the land recognizes you and is pulling you toward something greater. The choices you make will ripple across the Living Lands, shaping the fates of its people, its creatures, your companions, and even yourself. Anniversary Update Even more to do in the game! This update brings New Game Plus, a Photo Mode, a brand new weapon type with two-handed staves, the ability to change character appearance whenever you’d like, new character creation presets, additional Godlike presets, custom game difficulty settings, and the addition of three new playable races: Dwarf, Aumaua, and Orlan. The Weird and Wonderful Living Lands The Living Lands is a place that feels foreign yet strangely intrinsic to you, as though the island itself is calling out for help. Explore a vibrant frontier home to diverse environments, creatures, factions, and mysteries—each with its own unique ecosystem and stories to uncover. Combat and Character Building Your Way Fight with fluid, visceral combat that lets you mix swords, spells, guns, and shields in whatever combination fits your style. Craft your own build by drawing from four distinct skill trees—Fighter, Ranger, Wizard, and Godlike—and layer a companion skillset on top of your own to create powerful synergies. Experiment with new abilities, refine your strategy, and reshape your approach as you master the challenges ahead. Companions as Part of Your Journey A spread of companions from different species and backgrounds will fight alongside you, each with their own personalities, goals, and abilities. From a former mercenary to an eccentric wizard, these allies will grow and change based on the choices you make—and the quests you help them complete.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama; thanks to akuma for the arabic files and Oussama for the fpkg file.\nUpdated: 2026-11-10T12:15:52.413Z",
-      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "posterUrl": "https://cdn.orbispatches.com/titles/CUSA19500_de9076a567b1a30cfca8dd2fac10e3f90c9f29af3a2154b7b088d76ad27a5cf9/icon0.webp",
+      "description": "One person is all that stands between humanity and the greatest threat it’s ever faced. Relive the legend of Commander Shepard in the highly acclaimed Mass Effect trilogy with the Mass Effect™ Legendary Edition. Includes single-player base content and over 40 DLC from Mass Effect, Mass Effect 2, and Mass Effect 3 games, including promo weapons, armors, and packs – remastered and optimized for 4K Ultra HD./nRELIVE THE CINEMATIC SAGA: Heart-pounding action meets gripping interactive storytelling where you decide how your unique story unfolds./n/nEXPERIENCE THE LEGEND OF SHEPARD: Create and customize your own character, from appearance and skills to a personalized arsenal then lead your elite recon squad across a galaxy in turmoil./nREFLECT ON YOUR CHOICES: Your choices seamlessly travel from one game to the next. Each decision you make will control the outcome of every mission, every relationship, every battle – and even the fate of the galaxy itself.",
+      "downloadSource": "",
       "downloadLinks": [
         {
-          "name": "Arabic FPKG · Viki",
-          "url": "https://vikingfile.com/f/syZ5Vy0IpV"
+          "name": "AKR",
+          "url": "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/co9iH7SEUFbBkBB0Wde-%5BSuperPSX%5D-Mass.Effect.Legendary.Edition-CUSA19515-EUR-Game-%288.00%2B%29-PS4.pkg?access=1794432001080.KH_2dniaBqNe-Cg_YT9H9dW2QpekQllKCRBaxXnXmpQ"
         }
       ],
       "sizeBytes": 66571993088
